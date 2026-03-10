@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 💫 About Me:<br>👯 I’m looking to collaborate on web React JS/TS related projects<br>🌱 I’m currently learning React TS aspiring to become a MERN Stack<br>💬 Ask me about you think I can answer<br>⚡ Fun fact : I think I have imposter syndrome 
+💫 About Me:<br>👯 I’m looking to collaborate on web React JS/TS related projects<br>🌱 I’m currently learning React TS aspiring to become a MERN Stack<br>💬 Ask me about you think I can answer<br>⚡ Fun fact : I think I have imposter syndrome 
 
 
 # 💻 Tech Stack:
